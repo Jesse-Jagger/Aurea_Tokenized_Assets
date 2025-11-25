@@ -14,6 +14,9 @@ const geistMono = Geist_Mono({
 
 export const metadata: Metadata = {
   title: "Aurea Octave",
+   icons: {
+    icon: "/Images/Screenshot 2025-11-25 at 9.25.13 PM.png",
+  },
 };
 
 export default function RootLayout({
